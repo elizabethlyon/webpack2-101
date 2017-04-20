@@ -1,0 +1,1 @@
+This will be a boilerplate for future projects.
